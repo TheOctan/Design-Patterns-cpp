@@ -8,21 +8,21 @@
 В паттерне Observer связь между отправителем и получателем слабее,
 при этом число получателей может конфигурироваться во время выполнения.
 
-* Mediator и Observer являются конкурирующими паттернами.
+* Mediator и [Observer] являются конкурирующими паттернами.
 Если [Observer] распределяет взаимодействие c помощью объектов "наблюдатель" и "субъект",
 то Mediator использует объект-посредник для инкапсуляции взаимодействия между другими объектами.
 Мы обнаружили, что легче сделать повторно используемыми Наблюдателей и Субъектов, чем Посредников.
 
 * С другой стороны, Mediator может использовать [Observer] для динамической регистрации коллег и их взаимодействия с посредником.
 
-* Mediator похож [Faсade] в том, что он абстрагирует функциональность существующих классов.
+* Mediator похож [Facade] в том, что он абстрагирует функциональность существующих классов.
 Mediator абстрагирует/централизует взаимодействие между объектами-коллегами,
 добавляет новую функциональность и известен всем объектам-коллегам (то есть определяет двунаправленный протокол взаимодействия).
 [Facade], наоборот, определяет более простой интерфейс к подсистеме, не добавляя новой функциональности,
 и неизвестен классам подсистемы (то есть имеет однонаправленный протокол взаимодействия,
 то есть запросы отправляются в подсистему, но не наоборот).
 
-[Chain of Responsibility]:
-[Command]:
-[Observer]:
-[Faсade]:
+[Chain of Responsibility]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Chain-Of-Responsibility
+[Command]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Command
+[Observer]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Observer
+[Facade]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Facade
