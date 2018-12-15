@@ -15,6 +15,6 @@
 
 * [Mediator] может использовать Observer для динамической регистрации коллег и их взаимодействия с посредником.
 
-[Chain of Responsibility]:
-[Command]:
-[Mediator]:
+[Chain of Responsibility]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Chain-Of-Responsibility
+[Command]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Command
+[Mediator]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Mediator
