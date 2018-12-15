@@ -6,4 +6,4 @@
 
 * Пулы объектов, как правило, реализуются в виде одиночек.
 
-[Factory Method]:
+[Factory Method]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Factory-Method
