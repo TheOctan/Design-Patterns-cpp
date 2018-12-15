@@ -1,6 +1,6 @@
 ## Особенности паттерна Facade
 
-* Facade определяет новый интерфейс, в то время как Adapter использует уже имеющийся.
+* Facade определяет новый интерфейс, в то время как [Adapter] использует уже имеющийся.
 Помните, [Adapter] делает работающими вместе два существующих интерфейса, не создавая новых.
 
 * Если [Flyweight] показывает, как сделать множество небольших объектов,
@@ -20,8 +20,8 @@
 Цель Facade – создание более простого интерфейса, цель [Adapter] – адаптация существующего интерфейса.
 Facade обычно "обертывает" несколько объектов, [Adapter] "обертывает" один объект.
 
-[Adapter]:
-[Flyweight]:
-[Mediator]:
-[Abstract Factory]:
-[Singleton]:
+[Adapter]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Adapter
+[Flyweight]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Flyweight
+[Mediator]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Mediator
+[Abstract Factory]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Abstract-Factory
+[Singleton]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Singleton
