@@ -10,7 +10,7 @@
 
 * Flyweight объясняет, когда и как могут разделяться объекты [State].
 
-[Facade]:
-[Composite]:
-[Interpreter]:
-[State]:
+[Facade]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Facade
+[Composite]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Composite
+[Interpreter]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Interpreter
+[State]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/State
