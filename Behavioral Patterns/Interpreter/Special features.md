@@ -9,6 +9,6 @@
 * Паттерн Interpreter не рассматривает вопросы синтаксического разбора.
 Когда грамматика очень сложная, должны использоваться другие методики.
 
-[Composite]:
-[Iterator]:
-[Flyweight]:
+[Composite]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Composite
+[Iterator]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Iterator
+[Flyweight]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Flyweight
