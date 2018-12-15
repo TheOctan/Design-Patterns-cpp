@@ -30,7 +30,7 @@
 то применение паттерна [Strategy], переносит семйство алгоритмав в отдельную иерархию классов,
 что позволяет заменять один алгоритм другим в ходе выполнения программы. Кроме того, такую систему проше расширять и поддерживать.
 
-* Паттерн [Template] Mathod определяет основу алгоритма и позволяет подклассам изменить некоторые шаги этого алгоритма без изменения его общей структуры.
+* Паттерн [Template Method] определяет основу алгоритма и позволяет подклассам изменить некоторые шаги этого алгоритма без изменения его общей структуры.
 
 * Паттерн [Visitor] определяет операцию, выполняемую на каждом элементе из некоторой структуры без изменения классов этих объектов.
 
@@ -40,14 +40,14 @@
 
 [Паттерны поведения]: http://cpp-reference.ru/patterns/behavioral-patterns/
 
-[Chain of Responsibility]:
-[Command]:
-[Iterator]:
-[Interpreter]:
-[Mediator]:
-[Memento]:
-[Observer]:
-[State]:
-[Strategy]:
-[Template]:
-[Visitor]:
+[Chain of Responsibility]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Chain-Of-Responsibility
+[Command]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Command
+[Interpreter]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Interpreter
+[Iterator]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Iterator
+[Mediator]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Mediator
+[Memento]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Memento
+[Observer]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Observer
+[State]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/State
+[Strategy]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Strategy
+[Template Method]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Template-Method
+[Visitor]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Visitor
