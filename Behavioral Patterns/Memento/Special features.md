@@ -13,5 +13,5 @@
 * Memento часто используется совместно с [Iterator].
 Iterator может использовать Memento для сохранения состояния итерации.
 
-[Command]:
-[Iterator]:
+[Command]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Command
+[Iterator]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Iterator
