@@ -22,7 +22,7 @@ Decorator, таким образом, более прозрачен для кл�
 * Decorator позволяет изменить внешний облик объекта,
 [Strategy] – его внутреннее содержание.
 
-[Adapter]:
-[Proxy]:
-[Composite]:
-[Strategy]:
+[Adapter]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Adapter
+[Proxy]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Proxy
+[Composite]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Composite
+[Strategy]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Strategy
