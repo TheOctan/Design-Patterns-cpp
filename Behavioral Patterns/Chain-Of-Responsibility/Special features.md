@@ -9,7 +9,7 @@ Chain of Responsibility передает запрос отправителя п�
 * Chain of Responsibility часто применяется вместе с паттерном [Composite].
 Родитель компонента может выступать в качестве его преемника.
 
-[Command]:
-[Mediator]:
-[Observer]:
-[Composite]:
+[Command]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Command
+[Mediator]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Mediator
+[Observer]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Observer
+[Composite]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Composite
