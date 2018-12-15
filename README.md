@@ -8,7 +8,7 @@ the instantiation process), structure (how classes and objects are composed to f
 larger structures) and behavioral patterns (the assignment of responsibilities between 
 objects).  
 
-#### Creational Patterns (Порождающие паттерны)
+#### Creational Patterns ([Порождающие паттерны])
 * [Abstract Factory], families of product objects
 > Абстрактная фабрика - создаёт семейство взаимносвязных объектов
 * [Builder], how a composite object gets created
@@ -21,7 +21,7 @@ objects).
 > Прототип - создание объектов на основе прототипов
 * [Singleton], the sole instance of a class 
 > Одиночка - создаёт единственный экземпляр некоторого класса и предоставляет к нему доступ
-#### Structural Patterns (Структурные паттерны)
+#### Structural Patterns ([Структурные паттерны])
 * [Adapter], interface to an object
 > Адаптер - преобразует интерфейс существующего класса к виду, подходящему для использования
 * [Bridge], implementation of an object 
@@ -36,7 +36,7 @@ objects).
 > Приспособленец - использует разделение для поддержки множества мелких объектов
 * [Proxy], how an object is accessed (its location)
 > Заместитель - подменяет другой объект для контроля доступа к нему
-#### Behavioral Patterns (Поведенческие паттерны)
+#### Behavioral Patterns ([Паттерны поведения])
 * [Chain of Responsibility], object that can fulfill a request
 > Цепочка обязанностей - предоставляет способ передачи запроса по цепочке получателей
 * [Command], when and how a request is fulfilled
@@ -72,6 +72,10 @@ Design patterns in this repository are based on
 [Head First: Design Patterns]: http://www.headfirstlabs.com/books/hfdp/ 
 [Wikipedia]: https://en.wikipedia.org/wiki/Software_design_pattern
 [Design Patterns]: http://cpp-reference.ru/patterns/catalog/
+
+[Порождающие паттерны]: https://github.com/AlvinGames/design-patterns-cpp/blob/master/Creational%20Patterns/Creational%20Patterns.md
+[Структурные паттерны]: https://github.com/AlvinGames/design-patterns-cpp/blob/master/Structural%20Patterns/Structural%20Patterns.md
+[Паттерны поведения]: https://github.com/AlvinGames/design-patterns-cpp/blob/master/Behavioral%20Patterns/Behavioral%20Patterns.md
 
 [Abstract Factory]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Abstract-Factory
 [Builder]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Builder
