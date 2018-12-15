@@ -14,7 +14,7 @@ State позволяет объекту изменять свое поведен
 
 * Реализация паттерна State основана на паттерне [Strategy]. Различия заключаются в их назначении.
 
-[Flyweight]:
-[Interpreter]:
-[Bridge]:
-[Strategy]:
+[Flyweight]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Flyweight
+[Interpreter]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Interpreter
+[Bridge]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Bridge
+[Strategy]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Strategy
