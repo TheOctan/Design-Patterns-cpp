@@ -27,11 +27,11 @@
 
 [Порождающие паттерны]: http://cpp-reference.ru/patterns/creational-patterns/
 
-[паттерны]: 
+[паттерны]: https://github.com/AlvinGames/design-patterns-cpp
 
-[Factory Method]:
-[Abstract Factory]:
-[Builder]:
-[Prototype]:
-[Singleton]:
-[Object Pool]:
+[Factory Method]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Factory-Method
+[Abstract Factory]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Abstract-Factory
+[Builder]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Builder
+[Prototype]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Prototype
+[Singleton]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Singleton
+[Object Pool]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Object-Pool
