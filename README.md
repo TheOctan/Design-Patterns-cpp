@@ -6,7 +6,9 @@ design that can be transformed into source code directly, but it is template how
 to solve the problem. We can classify them by purpose into creational (abstract 
 the instantiation process), structure (how classes and objects are composed to form 
 larger structures) and behavioral patterns (the assignment of responsibilities between 
-objects).  
+objects).
+
+![01-HelloWorld](list-of-patterns.png)
 
 #### Creational Patterns ([Порождающие паттерны])
 * [Abstract Factory], families of product objects
