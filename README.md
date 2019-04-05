@@ -8,6 +8,8 @@ the instantiation process), structure (how classes and objects are composed to f
 larger structures) and behavioral patterns (the assignment of responsibilities between 
 objects).
 
+⚠ This repository is an extension of the [original].
+
 ![01-HelloWorld](list-of-patterns.png)
 
 #### Creational Patterns ([Порождающие паттерны])
@@ -69,6 +71,8 @@ Design patterns in this repository are based on
 * [Head First: Design Patterns]
 * [Wikipedia]
 * [Design Patterns]
+
+[original]: https://github.com/JakubVojvoda/design-patterns-cpp
 
 [Design Patterns by The "Gang of Four"]: https://en.wikipedia.org/wiki/Design_Patterns
 [Head First: Design Patterns]: http://www.headfirstlabs.com/books/hfdp/ 
