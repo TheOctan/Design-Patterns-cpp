@@ -8,9 +8,9 @@ the instantiation process), structure (how classes and objects are composed to f
 larger structures) and behavioral patterns (the assignment of responsibilities between 
 objects).
 
-⚠ This repository is an extension of the [original].
+⚠ This repository is an extension of the [original repository].
 
-![01-HelloWorld](list-of-patterns.png)
+![Patterns](list-of-patterns.png)
 
 #### Creational Patterns ([Порождающие паттерны])
 * [Abstract Factory], families of product objects
@@ -72,40 +72,40 @@ Design patterns in this repository are based on
 * [Wikipedia]
 * [Design Patterns]
 
-[original]: https://github.com/JakubVojvoda/design-patterns-cpp
+[original repository]: https://github.com/JakubVojvoda/design-patterns-cpp
 
 [Design Patterns by The "Gang of Four"]: https://en.wikipedia.org/wiki/Design_Patterns
 [Head First: Design Patterns]: http://www.headfirstlabs.com/books/hfdp/ 
 [Wikipedia]: https://en.wikipedia.org/wiki/Software_design_pattern
 [Design Patterns]: http://cpp-reference.ru/patterns/catalog/
 
-[Порождающие паттерны]: https://github.com/AlvinGames/design-patterns-cpp/blob/master/Creational%20Patterns/Creational%20Patterns.md
-[Структурные паттерны]: https://github.com/AlvinGames/design-patterns-cpp/blob/master/Structural%20Patterns/Structural%20Patterns.md
-[Паттерны поведения]: https://github.com/AlvinGames/design-patterns-cpp/blob/master/Behavioral%20Patterns/Behavioral%20Patterns.md
+[Порождающие паттерны]: https://github.com/TheOctan/design-patterns-cpp/blob/master/Creational%20Patterns
+[Структурные паттерны]: https://github.com/TheOctan/design-patterns-cpp/blob/master/Structural%20Patterns/
+[Паттерны поведения]: https://github.com/TheOctan/design-patterns-cpp/blob/master/Behavioral%20Patterns/
 
-[Abstract Factory]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Abstract-Factory
-[Builder]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Builder
-[Factory Method]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Factory-Method
-[Object Pool]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Object-Pool
-[Prototype]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Prototype
-[Singleton]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Creational%20Patterns/Singleton
-[Adapter]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Adapter
-[Bridge]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Bridge
-[Composite]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Composite
-[Decorator]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Decorator
-[Facade]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Facade
-[Flyweight]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Flyweight
-[Proxy]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Structural%20Patterns/Proxy
-[Chain of Responsibility]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Chain-Of-Responsibility
-[Command]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Command
-[Interpreter]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Interpreter
-[Iterator]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Iterator
-[Mediator]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Mediator
-[Memento]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Memento
-[Observer]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Observer
-[State]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/State
-[Strategy]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Strategy
-[Template Method]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Template-Method
-[Visitor]: https://github.com/AlvinGames/design-patterns-cpp/tree/master/Behavioral%20Patterns/Visitor
+[Abstract Factory]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Creational%20Patterns/Abstract-Factory
+[Builder]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Creational%20Patterns/Builder
+[Factory Method]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Creational%20Patterns/Factory-Method
+[Object Pool]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Creational%20Patterns/Object-Pool
+[Prototype]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Creational%20Patterns/Prototype
+[Singleton]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Creational%20Patterns/Singleton
+[Adapter]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Structural%20Patterns/Adapter
+[Bridge]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Structural%20Patterns/Bridge
+[Composite]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Structural%20Patterns/Composite
+[Decorator]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Structural%20Patterns/Decorator
+[Facade]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Structural%20Patterns/Facade
+[Flyweight]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Structural%20Patterns/Flyweight
+[Proxy]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Structural%20Patterns/Proxy
+[Chain of Responsibility]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Behavioral%20Patterns/Chain-Of-Responsibility
+[Command]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Behavioral%20Patterns/Command
+[Interpreter]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Behavioral%20Patterns/Interpreter
+[Iterator]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Behavioral%20Patterns/Iterator
+[Mediator]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Behavioral%20Patterns/Mediator
+[Memento]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Behavioral%20Patterns/Memento
+[Observer]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Behavioral%20Patterns/Observer
+[State]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Behavioral%20Patterns/State
+[Strategy]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Behavioral%20Patterns/Strategy
+[Template Method]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Behavioral%20Patterns/Template-Method
+[Visitor]: https://github.com/TheOctan/design-patterns-cpp/tree/master/Behavioral%20Patterns/Visitor
 
 
